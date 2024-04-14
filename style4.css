@@ -1,0 +1,28 @@
+
+.section1,
+.section2,
+.section3,
+.section4,
+.section5 {
+  width: 85vw;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-right: 7vw;
+}
+
+.photo_box_1,
+.photo_box_2,
+.photo_box_3,
+.photo_box_4,
+.photo_box_5 {
+  display: flex;
+  flex-direction: column;
+}
+p {
+  margin-left: 5vw;
+  font-size: 17px;
+  font-family: Verdana;
+  font-weight: 500;
+}
